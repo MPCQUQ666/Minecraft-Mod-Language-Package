@@ -1,1 +1,150 @@
+item.endumium_crystal.name=终末水晶
+item.farlander_spawn_egg.name=生成 末影人
+item.ender_golem_spawn_egg.name=生成 末影傀儡
+item.elder_spawn_egg.name=生成 年迈末影人
+item.classic_enderman_spawn_egg.name=生成 经典末影人
+item.nightfall_sword.name=夜幕之剑
+item.ender_horn.name=末影傀儡的角
+item.wanderer_spawn_egg.name=生成 流浪者
+item.mystic_enderman_spawn_egg.name=生成 神秘末影人
+item.rebel_spawn_egg.name=生成 反叛末影人
+item.looter_spawn_egg.name=生成 掠夺者
+item.enderminion_spawn_egg.name=生成 末影爪牙
+item.fanmade_enderman_spawn_egg.name=生成 粉丝自制末影人
+item.mystic_enderminion_spawn_egg.name=生成 神秘末影爪牙
+item.titan_spawn_egg.name=生成 泰坦
+item.ender_colossus_spawn_egg.name=生成 末影巨人
+item.ender_guardian_spawn_egg.name=生成 末影守卫者
+item.nightfall_spirit_spawn_egg.name=生成 黄昏精灵
+item.mini_ender_dragon_spawn_egg.name=生成 小末影龙
+item.end_spirit_spawn_egg.name=生成 终末精灵
+item.ender_colossus_shadow_spawn_egg.name=生成 末影巨人之影
+item.mystic_wand.name=神秘魔杖
+item.titan_hide.name=泰坦的皮
+item.nightfall_shard.name=夜幕碎片
+item.nightfall_staff.name=夜幕降临
+item.nightfall_helmet.name=夜幕头盔
+item.nightfall_chestplate.name=夜幕胸甲
+item.nightfall_leggings.name=夜幕护腿
+item.nightfall_boots.name=夜幕靴子
+item.rebel_farlander_helmet.name=反叛末影人头盔
+item.looter_hood.name=掠夺者兜帽
 
+tile.endumium_ore.name=终末水晶矿石
+tile.endumium_block.name=终末水晶块
+tile.nightfall_stone.name=夜幕石头
+
+entity.farlanders.ender_golem.name=末影傀儡
+entity.farlanders.farlander.name=末影人
+entity.farlanders.elder_farlander.name=年迈末影人
+entity.farlanders.classic_enderman.name=经典末影人
+entity.farlanders.wanderer.name=流浪者
+entity.farlanders.mystic_enderman.name=神秘末影人
+entity.farlanders.rebel.name=反叛末影人
+entity.farlanders.looter.name=掠夺者
+entity.farlanders.enderminion.name=末影爪牙
+entity.farlanders.fanmade_enderman.name=粉丝自制末影人
+entity.farlanders.mystic_enderminion.name=神秘末影爪牙
+entity.farlanders.titan.name=泰坦
+entity.farlanders.ender_guardian.name=末影守卫者
+entity.farlanders.ender_colossus_shadow.name=末影巨人之影
+entity.farlanders.ender_colossus.name=末影巨人
+entity.farlanders.mini_ender_dragon.name=小末影龙
+entity.farlanders.end_spirit.name=终末精灵
+entity.farlanders.nightfall_spirit.name=黄昏精灵
+
+itemGroup.farlanders=更多末影人
+
+gui.item.wand.small_fireball=小火球宝石
+gui.item.wand.large_fireball=大火球宝石
+gui.item.wand.ore=矿石宝石
+gui.item.wand.teleportation=传送宝石
+gui.item.wand.regeneration=再生宝石
+gui.item.wand.invisibility=隐形宝石
+gui.item.wand.ore.failure=这只适用于石头和地狱岩.
+gui.item.wand.teleportation.failure=这个物品在该维度中似乎不起作用
+gui.item.wand.regeneration.failure=装有再生宝石的神秘魔杖正在冷却.
+gui.item.wand.invisibility.failure=装有隐形宝石的神秘魔杖正在冷却.
+
+gui.enderminion.sit.one=留在这里
+gui.enderminion.sit.two=等等
+gui.enderminion.sit.three=在这里等着
+
+gui.enderminion.stand.one=我回来了，跟我来
+gui.enderminion.stand.two=走吧
+gui.enderminion.stand.three=拜托
+
+advancement.the_farlanders.root=更多末影人
+advancement.the_farlanders.root.desc=一个充满奇怪生物的模组.
+
+advancement.this_is_the_end=这就是结局
+advancement.this_is_the_end.desc=击杀一个经典末影人.
+
+advancement.alternative_ending=另类结局
+advancement.alternative_ending.desc=获得一个末地传送门.
+
+advancement.cleaning_the_dust=清理灰尘
+advancement.cleaning_the_dust.desc=击杀一个拿着泥土或沙子的经典末影人.
+
+advancement.iron_maiden=铁娘子
+advancement.iron_maiden.desc=击杀一个拿着铁的经典末影人.
+
+advancement.blazing_gold_digger=淘金者
+advancement.blazing_gold_digger.desc=击杀一个拿着黄金的经典末影人.
+
+advancement.what_the_hell=搞什么鬼？
+advancement.what_the_hell.desc=击杀一个着火时拿着地狱岩或灵魂沙的经典末影人.
+
+advancement.rock_bottom=岩层底部
+advancement.rock_bottom.desc=击杀一个着火时拿着黑曜石的经典末影人.
+
+advancement.diamonds_oh_wait=钻石！哦等等...
+advancement.diamonds_oh_wait.desc=击杀一个拿着钻石的经典末影人.
+
+advancement.cutting_edge=尖端！
+advancement.cutting_edge.desc=获得一把夜幕之剑.
+
+advancement.abra_kadabra=艾伯·阿卡迪巴
+advancement.abra_kadabra.desc=神秘末影人掉落了一根神秘魔杖！
+
+advancement.among_endermen=在末影人之中
+advancement.among_endermen.desc=获得整套夜幕盔甲.
+
+advancement.leader_minions=仆从首领
+advancement.leader_minions.desc=驯服一个魔影爪牙.
+
+advancement.wand_destruction=毁灭魔杖
+advancement.wand_destruction.desc=从神秘末影人手中购买神秘魔杖
+
+subtitles.entity.farlander.idle=末影人说话
+subtitles.entity.farlander.hurt=末影人受伤
+subtitles.entity.farlander.death=末影人死了
+
+subtitles.entity.enderminion.idle=魔影爪牙喘息
+subtitles.entity.enderminion.hurt=魔影爪牙受伤
+subtitles.entity.enderminion.death=魔影爪牙死了
+
+subtitles.entity.titan.idle=泰坦抱怨着
+subtitles.entity.titan.hurt=泰坦受伤
+subtitles.entity.titan.death=泰坦死了
+subtitles.entity.titan.holding=泰坦尖叫着
+
+subtitles.entity.ender_guardian.idle=末影守卫者喃喃自语
+subtitles.entity.ender_guardian.hurt=末影守卫者受伤
+subtitles.entity.ender_guardian.death=末影守卫者死了
+
+subtitles.entity.ender_golem.idle=末影傀儡抱怨着
+subtitles.entity.ender_golem.hurt=末影傀儡受伤
+subtitles.entity.ender_golem.death=末影傀儡死了
+
+subtitles.entity.fanmade_enderman.idle=末影人低声说
+
+subtitles.entity.mystic_enderman.blindness=末影人盲了
+subtitles.entity.mystic_enderman.confusion=末影人迷惑
+
+farlanders.config.smallHouseSpawnRate.comment=Small Farlander house rarity (higher number = lower spawnrate)
+farlanders.config.mediumHouseSpawnRate.comment=Medium Farlander house rarity (higher number = lower spawnrate)
+farlanders.config.largeHouseSpawnRate.comment=Large Farlander house rarity (higher number = lower spawnrate)
+farlanders.config.elderHouseSpawnRate.comment=Elder Farlander house rarity (higher number = lower spawnrate)
+farlanders.config.farlanderLootWellSpawnRate.comment=Farlander Loot Well rarity (higher number = lower spawnrate)
+farlanders.config.obsidianSpireSpawnRate.comment=Obsidian Spire rarity (higher number = lower spawnrate)
